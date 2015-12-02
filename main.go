@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/calavera/dkvolume"
+	"github.com/anthonydahanne/dkvolume"
 )
 
 const (
